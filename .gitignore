@@ -1,0 +1,7 @@
+__pycache__/
+.ruff_cache/
+.pytest_cache/
+pipeline/config.env
+pipeline/hosts/*.env
+!pipeline/hosts/example.env
+data/
